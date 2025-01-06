@@ -12,6 +12,6 @@ vision por ordenador con/mezclado sitio web
 1. crear 2 sitios web
 2. crear el vision por ordenador
 3. personalizar el sitio web 1
-4.meter el vision por ordenador en el sitio web 1
-5.personalizar diferente el sitio web 2
-6.configurar el sitio web 1 para enviar un correo al usuarilo y una alerta/mensaje al sitio web 2
+4. meter el vision por ordenador en el sitio web 1
+5. personalizar diferente el sitio web 2
+6. configurar el sitio web 1 para enviar un correo al usuarilo y una alerta/mensaje al sitio web 2
